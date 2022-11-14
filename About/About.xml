@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Ipsum Gene</name>
+	<author>Kambiing</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>kambiing.ipsumGene</packageId>
+	<description>
+		Screwing around with rimworld gene. Yeeted out xmls from Anon of the sea's mod godlike. 
+	</description>
+</ModMetaData>
