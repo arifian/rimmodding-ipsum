@@ -52,7 +52,8 @@
 		<li>Romance attempts always succeed.</li>
 		<li>Every (*DateTime)1-2 days(/DateTime), one old wound or chronic illness is healed.</li> 		
 -->
-		<li>Can only die from destruction of brain.</li>
+		<!-- <li>Can only die from destruction of brain.</li> -->
+		<li>Lots of metabolism</li>
 	</customEffectDescriptions>
 
 	<damageFactors> <!-- applied damage factor -->
